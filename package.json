@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-fatfisz-react",
+  "version": "5.0.1",
+  "description": "ESLint config for FatFisz coding standard",
+  "main": "index.js",
+  "homepage": "https://github.com/fatfisz/eslint-config-fatfisz-react",
+  "repository": "https://github.com/fatfisz/eslint-config-fatfisz-react.git",
+  "author": {
+    "name": "FatFisz",
+    "url": "https://github.com/fatfisz"
+  },
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "eslint",
+    "eslintconfig",
+    "styleguide"
+  ],
+  "peerDependencies": {
+    "eslint": "^2.9.0",
+    "eslint-plugin-react": "^5.0.1"
+  }
+}
