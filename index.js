@@ -8,6 +8,8 @@ module.exports = {
     },
   },
   rules: {
+    'jsx-quotes': [2, "prefer-single"],
+
     'react/display-name': 2,
     'react/forbid-prop-types': 0,
     'react/no-danger': 0,
